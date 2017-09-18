@@ -2,7 +2,7 @@
 /**
  Plugin Name: Simple Local Avatars
  Plugin URI: http://10up.com/plugins/simple-local-avatars-wordpress/
- Description: Adds an avatar upload field to user profiles. Generates requested sizes on demand, just like Gravatar! Simple and lightweight.
+ Description: Adds an avatar upload field to user profiles. Generates requested sizes on demand, just like Gravatar! Simple and lightweight.自定义头像
  Version: 2.0
  Author: Jake Goldman, 10up
  Author URI: http://10up.com
