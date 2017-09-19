@@ -13,6 +13,7 @@
 #项目目录多余文件
 .classpath
 .project
+.htaccess
 index1.php
 wp-config.php
 phpadmin/
