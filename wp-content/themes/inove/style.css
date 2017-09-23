@@ -1322,7 +1322,7 @@ a#gotop {
 .focusBox .hd ul li.on{ background:#f00; color:#fff; font-size:10px;} 
 .focusBox .bd{ position:relative;  } 
 .focusBox .bd .pic{ line-height:0px;  } 
-.focusBox .bd .pic img{ width:298px; height:220px;} 
+.focusBox .bd .pic img{ width:298px; height:220px;margin-top: -20px;} 
 .focusBox .bd .con{ height:28px; line-height:28px; text-align:center; font-weight:bold; background:#f6f6f6; } 
 .focusBox .bd .con a {color:#333;font-size:12px;}
 .focusBox .bd .con a:hover {color:#ff6600;font-size:14px;}
