@@ -1,4 +1,4 @@
-﻿/*
+/*
 Theme Name: iNove（PHP站修改版6.0，个人修改）
 Theme URI: http://www.hkyzf.top/
 Description: WordPress知名主题iNove，PHP站修改版本，个人修改。
@@ -1414,7 +1414,7 @@ color: rgb(24, 24, 24);
    float:right;
    overflow:hidden;
 }
-.conblockl {float:left;}
+.conblockl {float:left;width:300px;height:250px;}
 #enrty_con_ads .conblock {
    width:20px;
    height:250px;
